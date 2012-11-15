@@ -1,0 +1,20 @@
+{
+    "name": "Raizin/Paginator",
+    "description": "Object Oriented Paginator",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "3.7.8",
+        "phake/phake": "v1.0.3"
+    },
+    "authors": [
+        {
+            "name": "TANAKA Koichi",
+            "email": "mugeso@mugeso.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Raizin\\Paginator": ["src", "tests"]
+        }
+    }
+}
