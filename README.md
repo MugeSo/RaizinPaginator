@@ -9,11 +9,11 @@ RaizinPaginator has following components:
 - Navigation
 - Paginator
 
-=== NumberConvertor
+### NumberConvertor
 NumberConvertor interconvert offset, page number and item count.
 
-=== Navigation
+### Navigation
 Navigation provides page iterator for navigation rendering.
 
-=== Paginator
+### Paginator
 Paginator is integrated interface of pagination.
